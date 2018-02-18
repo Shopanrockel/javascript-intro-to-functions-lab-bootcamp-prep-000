@@ -12,14 +12,14 @@ function logShout(string) {
 function logWhisper(string) {
   console.log(string.toLowerCase())
 }
-function sayHiToGrandma(string) {
+if {function sayHiToGrandma(string) {
   var lowercase = "hello"
   lowercase.toLowerCase() === lowercase
   
   return "I can\'t hear you!" 
 
 }
-function sayHiToGrandma(string) {
+
   var uppercase = "HELLO"
   uppercase.toUpperCase() === uppercase
   
