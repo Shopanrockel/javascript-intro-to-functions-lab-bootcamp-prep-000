@@ -19,8 +19,8 @@ function sayHiToGrandma(string) {
   return "I can\'t hear you!" 
 }
 function sayHiToGrandma(string) {
-  var uppercase = "YES INDEED!"
+  var uppercase = "hello"
   uppercase.toUpperCase() === uppercase
   
-  return "YES INDEED!"
+  return "I can\'t hear you!"
 }
