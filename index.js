@@ -16,10 +16,11 @@ function sayHiToGrandma(string) {
   var uppercase = "HELLO"
   var lowercawse = "hello"
 }
-  if uppercase === toUpperCase()
-  return "I can\'t hear you!"
+  if "hello" === string.toLowerCase()
+  return ("I can\'t hear you!")}
   else {
     return
+    
 }
 
 
